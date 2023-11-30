@@ -21,7 +21,7 @@ __Screenshots__
 
 ![Bar Chart](https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Bar%20Chart.png)
 ![Bubble Chart](https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Bubble%20Chart.png)
-![Guage Chart]__(https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Guage%20Chart.png)
+![Guage Chart](https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Guage%20Chart.png)
 
 __How to Run__
 
