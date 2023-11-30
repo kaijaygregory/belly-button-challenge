@@ -19,9 +19,9 @@ __Features Implemented__
 
 __Screenshots__
 
-__![Bar Chart]__()
-__![Bubble Chart]__()
-__![Guage Chart]__()
+__![Bar Chart]__(https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Bar%20Chart.png)
+__![Bubble Chart]__(https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Bubble%20Chart.png)
+__![Guage Chart]__(https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Guage%20Chart.png)
 
 __How to Run__
 
