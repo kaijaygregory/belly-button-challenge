@@ -19,13 +19,13 @@ __Features Implemented__
 
 __Screenshots__
 
-__![Bar Chart]__(https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Bar%20Chart.png)
-__![Bubble Chart]__(https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Bubble%20Chart.png)
-__![Guage Chart]__(https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Guage%20Chart.png)
+![Bar Chart](https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Bar%20Chart.png)
+![Bubble Chart](https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Bubble%20Chart.png)
+![Guage Chart]__(https://github.com/kaijaygregory/belly-button-challenge/blob/main/Images/Guage%20Chart.png)
 
 __How to Run__
 
-To view the Belly Button Biodiversity Dashboard, simply access the [GitHub Pages deployment]().
+To view the Belly Button Biodiversity Dashboard, simply access the [GitHub Pages deployment]( https://kaijaygregory.github.io/belly-button-challenge/).
 
 __References__
 
